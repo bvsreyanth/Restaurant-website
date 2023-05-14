@@ -23,13 +23,15 @@
 
             <form action="index.php" method="get">
 
-                <div>
-                    <span>Your full name ?</span>
-                    <input type="text" name="name" id="name" placeholder="Write your name here..." required>
+                <div>               
+                    <label for="Full_name">Full Name </label>
+                    <input  type="text" name="Full_name" maxlength="50" size="30" required>
+                    <br>
                 </div>
                 <div>
-                    <span>Your email address ?</span>
-                    <input type="email" name="name" id="name" placeholder="Write your email here..." required>
+                   <label for="email">Email Address</label>
+                    <input  type="text" name="email" maxlength="80" size="30" required>
+                    <br>
                 </div>
                 <div>
                     <!-- This is the select option -->
@@ -44,17 +46,18 @@
                     <!--This is the select option--->
                 </div>
                 <div>
-                    <span>What time ?</span>
-                    <input type="time" name="time" id="time" placeholder="Time" required>
+                    <label for="date">Date </label>
+                    <input  type="date" name="date" required>
+                    <br>
                 </div>
                 <div>
-                    <span>What is the date ?</span>
-                    <input type="date" name="date" id="date" placeholder="date" required>
+                    <label for="time">Time </label>
+                    <input  type="time" name="time" required>
+                    <br>
                 </div>
                 <div>
-                    <span>Your phone number ?</span>
-                    <input type="tel" name="phone" id="phone" placeholder="Write your number here..."
-                        pattern="[0-9]{10}" required>
+                     <label for="phone">Phone number </label>
+                     <input  type="tel" name="phone" required>
                 </div>
                 <form action="index.php" method="post">
                     <div id="submit">
