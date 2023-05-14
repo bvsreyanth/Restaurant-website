@@ -13,7 +13,7 @@ menu information management and report
 Main objective to build a restaurant webpage and reservation form using HTML, CSS and
 JavaScript, it specifies the pages in the website (e.g., About, Menu, Booking, Contacts)
 
-`Main page:
+Main page:
 
 ➢ The main page has navigation bar which consist About, Menu, Booking, Contacts
 
@@ -31,6 +31,7 @@ booking page
 ![image](https://github.com/bvsreyanth/Restaurant-website/assets/96385391/578d4d5f-3a1a-40c2-b16b-3ae444ee76cc)
 
 BOOKING PAGE:
+
 ➢ In the booking page the user can book the table by filling all the details and
 submitting.
 
