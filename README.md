@@ -20,6 +20,8 @@ Main page:
 ➢ Upon clicking the book table button in the main page the user is redirected to the
 booking page
 
+Screenshot:
+
 ![image](https://github.com/bvsreyanth/Restaurant-website/assets/96385391/ec02a4d2-7c86-4eca-9528-f8e9ff43656a)
 
 ![image](https://github.com/bvsreyanth/Restaurant-website/assets/96385391/b91541e3-b556-4023-b682-03b3f6d57015)
@@ -42,5 +44,6 @@ submitting.
 ![image](https://github.com/bvsreyanth/Restaurant-website/assets/96385391/cea7ce7f-f5b5-4762-a5a0-511ae7023e48)
 
 ![image](https://github.com/bvsreyanth/Restaurant-website/assets/96385391/d2db9a8a-1167-49cf-8261-fa1b11381838)
+
 
 
